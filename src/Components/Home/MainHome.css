@@ -1,0 +1,15 @@
+.home-main-div{
+    display: flex;
+    /* margin:  10px; */
+    
+}
+
+.homeleft{
+    background-color: antiquewhite;
+    padding: 5px;
+}
+.homeright{
+    background-color: aliceblue;
+    padding: 5px;
+
+}
